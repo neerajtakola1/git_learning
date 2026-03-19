@@ -1,1 +1,2 @@
 Creating file in github remote repo.
+Added text in new-branch file.
